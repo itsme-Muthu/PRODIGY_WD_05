@@ -1,4 +1,4 @@
-# PRODIGY_WD_05 - Prodigy Web Development Internship - Task 05
+# PRODIGY_WD_05 - Prodigy Web Development Internship - Task 05 - Weather App
 
 <h2>HTML :</h2>
 
